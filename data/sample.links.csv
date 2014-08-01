@@ -1,17 +1,18 @@
-http://knockoutjs.com/documentation/plugins-mapping.html ;; knockoutjs.com nice
-http://www.alkemis.com/jsonEditor.htm ; this one looks pretty nice
-http://www.csscripting.com/wiki/index.php?title=Freja ; based on XML instead of JSON
-http://robla.net/2005/jsonwidget/ ; based on JSON, someone's development project
-http://www.thomasfrank.se/json_editor.html
-http://www.aspdatabase.net/AjaxEdit/readme.html
-http://www.linb.net/JSONEditor/index.html
-http://www.midorijs.com/Passing-JavaScript-Objects-to-PHP.html
-http://github.com/iterationlabs/jsoneditor/tree/master
-http://www.decafbad.com/2005/07/map-test/tree2.html Outline editor, not really JSON
-http://json.bubblemix.net/ Visualise JSON structute, edit inline and export back to prettified JSON.
-http://jsoneditoronline.org/ Example added by StackOverflow thread participant. Source: https://github.com/josdejong/jsoneditor
-http://jsonmate.com/
-http://jsonviewer.stack.hu/
-http://jsoneditor.appspot.com/
-http://jsoneditoronline.org/
-http://codebeautify.org/jsonviewer
+CAPTION, DESCRIPTION, LINK
+caption, DESCRIPTION, http://knockoutjs.com/documentation/plugins-mapping.html ;; knockoutjs.com nice
+caption, DESCRIPTION, http://www.alkemis.com/jsonEditor.htm ; this one looks pretty nice
+caption, DESCRIPTION, http://www.csscripting.com/wiki/index.php?title=Freja ; based on XML instead of JSON
+caption, DESCRIPTION, http://robla.net/2005/jsonwidget/ ; based on JSON, someone's development project
+caption, DESCRIPTION, http://www.thomasfrank.se/json_editor.html
+caption, DESCRIPTION, http://www.aspdatabase.net/AjaxEdit/readme.html
+caption, DESCRIPTION, http://www.linb.net/JSONEditor/index.html
+caption, DESCRIPTION, http://www.midorijs.com/Passing-JavaScript-Objects-to-PHP.html
+caption, DESCRIPTION, http://github.com/iterationlabs/jsoneditor/tree/master
+caption, DESCRIPTION, http://www.decafbad.com/2005/07/map-test/tree2.html Outline editor, not really JSON
+caption, DESCRIPTION, http://json.bubblemix.net/ Visualise JSON structute, edit inline and export back to prettified JSON.
+caption, DESCRIPTION, http://jsoneditoronline.org/ Example added by StackOverflow thread participant. Source: https://github.com/josdejong/jsoneditor
+caption, DESCRIPTION, http://jsonmate.com/
+caption, DESCRIPTION, http://jsonviewer.stack.hu/
+caption, DESCRIPTION, http://jsoneditor.appspot.com/
+caption, DESCRIPTION, http://jsoneditoronline.org/
+caption, DESCRIPTION, http://codebeautify.org/jsonviewer
