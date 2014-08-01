@@ -1,8 +1,8 @@
 CAPTION, DESCRIPTION, LINK
 caption, DESCRIPTION, http://knockoutjs.com/documentation/plugins-mapping.html ;; knockoutjs.com nice
-caption, DESCRIPTION, http://www.alkemis.com/jsonEditor.htm ; this one looks pretty nice
+caption, this one looks pretty nice, http://www.alkemis.com/jsonEditor.htm 
 caption, DESCRIPTION, http://www.csscripting.com/wiki/index.php?title=Freja ; based on XML instead of JSON
-caption, DESCRIPTION, http://robla.net/2005/jsonwidget/ ; based on JSON, someone's development project
+caption, based on JSON someone's development project, http://robla.net/2005/jsonwidget/ 
 caption, DESCRIPTION, http://www.thomasfrank.se/json_editor.html
 caption, DESCRIPTION, http://www.aspdatabase.net/AjaxEdit/readme.html
 caption, DESCRIPTION, http://www.linb.net/JSONEditor/index.html
