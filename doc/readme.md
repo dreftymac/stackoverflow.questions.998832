@@ -1,10 +1,10 @@
-## overview
+## Overview
 
-### grand vision 
+### Grand Vision 
 
 A runnable, user-friendly and intuitive "programmable-github-equivalent".
 
-### Metaphor
+### A Metaphor
 A spreadsheet that can deal with arbitrary data structures, not just columns and rows.
 A spreadhseet that can authenticate, audit-trail, and revision-history, every element of the system.
    * user input
@@ -13,7 +13,7 @@ A spreadhseet that can authenticate, audit-trail, and revision-history, every el
    * function output
    * function code integrity
 
-### outline
+### Outline
 
 * grand vision ;; something equivalent to a "programmable github"
     * code capable of authentication and auditability
