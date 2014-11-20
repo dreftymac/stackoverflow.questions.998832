@@ -9,7 +9,7 @@ A spreadsheet that can deal with arbitrary data structures, not just columns and
 A spreadhseet that can authenticate, audit-trail, and revision-history, every element of the system.
    * user input
    * user input validation routines
-   * function intput
+   * function input
    * function output
    * function code integrity
 
