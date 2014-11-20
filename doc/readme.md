@@ -2,7 +2,14 @@
 
 ### grand vision 
 
-A runnable, user-friendly and intuitive "programmable-github-equivalent"
+A runnable, user-friendly and intuitive "programmable-github-equivalent".
+A spreadsheet that can deal with arbitrary data structures, not just columns and rows.
+A spreadhseet that can authenticate, audit-trail, and revision-history, every element of the system.
+   * user input
+   * user input validation routines
+   * function intput
+   * function output
+   * function code integrity
 
 ### outline
 
