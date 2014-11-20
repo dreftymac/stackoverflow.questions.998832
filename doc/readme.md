@@ -2,11 +2,11 @@
 
 ### grand vision 
 
-A runnable, programmable, user-friendly and intuitive "github-equivalent"
+A runnable, user-friendly and intuitive "programmable-github-equivalent"
 
 ### outline
 
-* grand vision ;; something equivalent to a "runnable github"
+* grand vision ;; something equivalent to a "programmable github"
     * code capable of authentication and auditability
     * code results capable of authentication and auditability
     * human-provided input capable of authentication and auditability
