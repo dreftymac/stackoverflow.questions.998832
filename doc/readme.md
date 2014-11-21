@@ -25,9 +25,9 @@ A spreadhseet that can authenticate, audit-trail, and revision-history, every el
 * the JSON can come from human input or an automated agent interchangeably, there is no difference
 
 * the intuitive-json-entry is a key element because if you can get non-technical people doing technical things, the potential scope of inputs to your system expand exponentially
-* call it the "wikipedia effect" vs "citizendium" 
-    * the results of a closed system are always
+* "wikipedia" vs "citizendium" 
+    * increasing the range and variety of potential editors will unambiguously increase the range and variety of quality and breadth of content ... auditing and quality control are built-in through data validation and checksums
 
 * flexible input modality
-    * need to be able to handle spreadsheets, possibly as the common denominator for most complex interface to give to non technical users
+    * need to be able to handle spreadsheets (as the bare minimum prerequisite UI metaphor), possibly as the common denominator for most complex interface to give to non technical users
   
