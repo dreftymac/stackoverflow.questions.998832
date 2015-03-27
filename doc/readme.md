@@ -2,9 +2,10 @@
 
 ### Grand Vision 
 
-A runnable, user-friendly and intuitive "programmable-github-equivalent".
+A runnable, user-friendly and intuitive data bridge between non-technical humans and programmers.
 
 ### A Metaphor
+
 A spreadsheet that can deal with arbitrary data structures, not just columns and rows.
 A spreadhseet that can authenticate, audit-trail, and revision-history, every element of the system.
    * user input
@@ -15,9 +16,9 @@ A spreadhseet that can authenticate, audit-trail, and revision-history, every el
 
 ### Outline
 
-* grand vision ;; something equivalent to a "programmable github"
-    * code capable of authentication and auditability
-    * code results capable of authentication and auditability
+* grand vision ;; a bridge between humans and structured data
+    * code inputs capable of authentication and auditability
+    * code outputs capable of authentication and auditability
     * human-provided input capable of authentication and auditability
 
 * simple to use by people without high technical proficiency
@@ -25,7 +26,7 @@ A spreadhseet that can authenticate, audit-trail, and revision-history, every el
 * the JSON can come from human input or an automated agent interchangeably, there is no difference
 
 * the intuitive-json-entry is a key element because if you can get non-technical people doing technical things, the potential scope of inputs to your system expand exponentially
-* "wikipedia" vs "citizendium" 
+* Analogy: "wikipedia" vs "citizendium" 
     * increasing the range and variety of potential editors will unambiguously increase the range and variety of quality and breadth of content ... auditing and quality control are built-in through data validation and checksums
     * http://en.wikipedia.org/wiki/Citizendium
     * http://en.wikipedia.org/wiki/Wikipedia
@@ -35,8 +36,8 @@ A spreadhseet that can authenticate, audit-trail, and revision-history, every el
     * JSON is great for portability, but non-technical users do not care about data interchange formats
     * growth of a system is governed at least partially by its apparent oppennes and focus
     * hide away the technical aspects to those users who do not care about it, but allow for exposure to more technical users who are interested in it
-    * difference between Web app front-end and developer access backend with API keys
-    * difference between github and penflip (both are based on git)
+    * Analogy: difference between Web app front-end and developer access backend with API keys
+    * Analogy: difference between github and penflip (both are based on git)
         * https://github.com/
         * https://www.penflip.com/
 
