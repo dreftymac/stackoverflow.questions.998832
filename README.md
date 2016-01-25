@@ -4,6 +4,9 @@ GUI-based or Web-based JSON editor that works like property explorer
 
 * http://stackoverflow.com/questions/998832
 
+## top links
+* https://github.com/jdorn/json-editor
+
 ## see also
 
 * BROKEN ;; [tree-view editors](http://www.slant.co/topics/2213/~what-are-the-best-wysiwyg-tree-view-etc-editors-for-json-xml-yaml-toml-data-files)
