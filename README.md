@@ -9,7 +9,7 @@
 At the time of this writing (Tue 2016-12-13T18:24:09) there are numerous solutions in this space that use JSON as part of an integrated solution. Since these solutions do not focus solely on JSON, they were originally not included as part of the question. In order to keep the material updated, they are now added here.
 
 * [form.io](https://form.io/#/)
-* 
+      * https://github.com/formio/ngFormBuilder
 
 ## Old links from original question
 
