@@ -8,6 +8,9 @@
 
 At the time of this writing (Tue 2016-12-13T18:24:09) there are numerous solutions in this space that use JSON as part of an integrated solution or larger application or framework. Since these solutions do not focus solely on JSON, they were originally not included as part of the original question on StackOverflow. In order to keep the material updated, they are now added here.
 
+### In-place editor
+* https://vitalets.github.io/x-editable
+
 ### TextEditor/IDE
 
 * [atom JSON plugin](https://github.com/LukasHechenberger/atom-json-editor)
