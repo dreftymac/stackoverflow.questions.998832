@@ -10,6 +10,7 @@ At the time of this writing (Tue 2016-12-13T18:24:09) there are numerous solutio
 
 ### In-place editor
 * https://vitalets.github.io/x-editable
+* https://code.tutsplus.com/tutorials/create-an-in-place-editing-system--net-6843
 
 ### TextEditor/IDE
 
