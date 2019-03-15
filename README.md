@@ -17,6 +17,7 @@ At the time of this writing (Tue 2016-12-13T18:24:09) there are numerous solutio
 
 * [atom JSON plugin](https://github.com/LukasHechenberger/atom-json-editor)
 * [JSON-splora](https://github.com/wellsjo/JSON-Splora)
+* [phosphorjs](https://phosphorjs.github.io/)
 
 ### Forms
 
