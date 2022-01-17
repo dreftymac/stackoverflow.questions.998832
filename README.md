@@ -4,6 +4,13 @@
 
 * http://stackoverflow.com/questions/998832
 
+## Close candidate
+
+This is the closest item to the original inquiry posed by dreftymac on SO.
+
+* https://json-editor.github.io/json-editor/
+
+
 ## Integrated Solutions
 
 At the time of this writing (Tue 2016-12-13T18:24:09) there are numerous solutions in this space that use JSON as part of an integrated solution or larger application or framework. Since these solutions do not focus solely on JSON, they were originally not included as part of the original question on StackOverflow. In order to keep the material updated, they are now added here.
