@@ -1,0 +1,77 @@
+title: Person
+type: object
+properties:
+  age:
+    default: 25
+    maximum: 99
+    minimum: 18
+    type: integer
+  date:
+    format: date
+    options:
+      flatpickr: {}
+    type: string
+  favorite_color:
+    default: '#ffa500'
+    format: color
+    title: favorite color
+    type: string
+  gender:
+    enum:
+    - male
+    - female
+    - other
+    type: string
+  location:
+    properties:
+      city:
+        default: San Francisco
+        type: string
+      citystate:
+        description: This is generated automatically from the previous two fields
+        template: '{{city}}, {{state}}'
+        type: string
+        watch:
+          city: location.city
+          state: location.state
+      state:
+        default: CA
+        type: string
+    title: Location
+    type: object
+  name:
+    default: Jeremy Dorn
+    description: First and Last name
+    minLength: 4
+    type: string
+  pets:
+    default:
+    - name: Walter
+      type: dog
+    format: table
+    items:
+      properties:
+        name:
+          type: string
+        type:
+          default: dog
+          enum:
+          - cat
+          - dog
+          - bird
+          - reptile
+          - other
+          type: string
+      title: Pet
+      type: object
+    title: Pets
+    type: array
+    uniqueItems: true
+required:
+  - name
+  - age
+  - date
+  - favorite_color
+  - gender
+  - location
+  - pets
